@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJECTS\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|E:\\PROJECTS\\Interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|E:\\PROJECTS\\Interface\\humans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|solutionrelative:humans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|E:\\PROJECTS\\Interface\\isleepable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FBB684-E9DA-41FD-990D-A2CA03E396A9}|Interface.csproj|solutionrelative:isleepable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humans.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\Interface\\Humans.cs",
+              "RelativeDocumentMoniker": "Humans.cs",
+              "ToolTip": "E:\\PROJECTS\\Interface\\Humans.cs*",
+              "RelativeToolTip": "Humans.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:24:18.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISleepable.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\Interface\\ISleepable.cs",
+              "RelativeDocumentMoniker": "ISleepable.cs",
+              "ToolTip": "E:\\PROJECTS\\Interface\\ISleepable.cs*",
+              "RelativeToolTip": "ISleepable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:00:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PROJECTS\\Interface\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:59:39.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
